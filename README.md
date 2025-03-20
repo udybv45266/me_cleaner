@@ -3,6 +3,10 @@
 _me\_cleaner_ is a Python script able to modify an Intel ME firmware image with
 the final purpose of reducing its ability to interact with the system.
 
+Me_cleaner — это скрипт на Python, который может изменять образ прошивки Intel ME с целью снижения его способности взаимодействовать с системой.
+
+5️⃣ GitHub
+
 ## Intel ME
 
 Intel ME is a co-processor integrated in all post-2006 Intel boards, which is
